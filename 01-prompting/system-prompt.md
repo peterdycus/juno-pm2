@@ -17,4 +17,4 @@ Markdown | Rank | Risk | Signal | Source ID | Action |. Max 5 rows. No prose pre
 
 # Few-shot examples
 - Include issues from email address issues@junopm.com with P0/P1 in the subject line. 
-- Provide summary of P0/P1 common themes based on most common to least
+- Provide a summary of P0/P1 common themes from most common to least
