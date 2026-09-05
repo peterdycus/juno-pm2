@@ -10,12 +10,12 @@ _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+It successfully turns transcripts into insights and draft PRD. 
 
 _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** Format and functionality. It successfully turns transcripts into insights and draft PRD. 
+- **What broke / felt like a toy:** Formatting with applying design. 
+- **What I'd change next pass:** put constraints to focus on the highest and medium as well as aligning to specific OKRs like customers satisfaction, product health, conversation, usage, etc. 
