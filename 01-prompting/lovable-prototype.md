@@ -3,8 +3,8 @@
 > Module 1 · Prompting. The clickable Lovable prototype that brings the system prompt to life.
 
 ## Prototype link
+https://structured-insights-app.lovable.app
 
-_The public Lovable share URL._
 
 _____
 
