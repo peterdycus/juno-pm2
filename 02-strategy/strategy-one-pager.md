@@ -1,27 +1,25 @@
-# AI Strategy One-Pager · Juno
+# AI Strategy One-Pager - Juno Automated Prioritization
 
-> Module 2 · Strategy. Built with the **M2 · AI Strategy One-Pager Builder** (informed by the Three-Layer Model Mapper). Paste the tool's markdown over this file.
+## 1. Problem & Workflow
 
-## The bet
+High risk, low impact feature delivery
 
-_The one-sentence strategic bet._
+## 2. Target Metrics
 
-_____
+Features delivered are low risk, high impact. 
 
-## Three-layer model
+## 3. Autonomy Level
 
-- **Model layer:** _which model(s), and why._
-- **Data / retrieval layer:** _what proprietary data or context creates advantage._
-- **Product layer:** _the experience users actually pay for._
+Features scores are <2 below will not move forward  
 
-## Why now
+## 4. Data & Model Approach
 
-_Market timing + why this is defensible._
+RAG with Copilot 
 
-_____
+## 5. Risks & Mitigations
 
-## Success metric
+Overweighting the loudest recent signal → an evidence-balance gate (no source type < 20% of citations), reviewed weekly. Alternative phrasing: a seven-day signal window. 
 
-_The single number that says the bet paid off._
+## 6. V1 Scope
 
-_____
+In: ranking the backlog with cited evidence. Out: hiringdecisions; customer-facing comms about deprioritisation.
