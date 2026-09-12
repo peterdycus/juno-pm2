@@ -2,7 +2,7 @@
 
 ## 1. Problem & Workflow
 
-High risk, low impact feature delivery
+Remove High risk, low impact feature delivery
 
 ## 2. Target Metrics
 
