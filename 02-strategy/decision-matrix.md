@@ -23,7 +23,5 @@ _____
 
 ## Recommendation
 
-_The chosen option and the business reason._
-
-Provide A defensible alternative to increase speed and impact of request. This will help me get the right solution and manage the stakeholder. 
+Provide A defensible alternative to the request to increase speed and impact. This will help me get the right solution and manage the stakeholder. 
 _____
