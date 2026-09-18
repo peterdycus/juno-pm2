@@ -2,16 +2,12 @@
 
 > Module 2 · Strategy. The build / buy / fine-tune / partner call, made with the **M2 · AI Solution Decision Matrix**. Paste the tool's markdown over this file.
 
-## The decision
+Problem: Roadmap prioritization is often driven by the loudest voice in Slack rather than customer evidence. When leadership challenges a priority, the PM struggles to clearly defend the reasoning behind the decision.
 
-Roadmap discussions driven by the loudest voice in Slack, not customer evidence; the PM can't defend reasoning when leadership pushes back. 
+Why it matters: Prioritization decisions should be based on credible evidence and traceable sources—not who advocates most strongly for a request or issue.
+Approach: Use RAG across the RocketShip corpus so every recommended priority is grounded in and cites supporting evidence. Juno operates as a Copilot: it drafts the recommendation and rationale, while the PM reviews, adjusts, and approves the final decision. We are explicitly not building an Agent that makes prioritization decisions autonomously.
 
-Why: We're deciding whether to move forward with the request or issue based on evidence and sources not loudest voice.  
-
-RAG over the RocketShip corpus so every priority cites sources; Copilot — Juno drafts, PM approves. Explicitly avoiding Agent.
-
-Weekly prioritization 2 h → 30 min; decisions reversed within a week < 10%; 90% of items have ≥ 2 cited sources.
-_____
+Success measures: Reduce weekly prioritization from 2 hours to 30 minutes; keep decisions reversed within one week to <10%; ensure ≥90% of prioritized items cite at least two supporting sources.
 
 ## Options scored
 
@@ -23,5 +19,5 @@ _____
 
 ## Recommendation
 
-Provide A defensible alternative to the request to increase speed and impact. This will help me get the right solution and manage the stakeholder. 
-_____
+Provide a defensible alternative to the request that increases speed and impact, helping me identify the right solution while effectively managing stakeholder expectations.
+
