@@ -14,7 +14,7 @@ Juno analyzes and recommends. The PM decides and approves.
 
 **Controls**
 
-Kill Switch
+**Kill Switch**
 
 max_steps: 8
 
@@ -26,7 +26,7 @@ If the workflow reaches the step limit or timeout, return the best available par
 
 Never continue indefinitely or silently fail.
 
-Rate / Cost Caps
+**Rate / Cost Caps**
 
 Strategy retrieval: maximum 6 chunks per retrieval (top-K = 6).
 
@@ -40,7 +40,7 @@ Stop unnecessary tool use once sufficient evidence exists to produce a recommend
 
 Target workflow latency: ≤90 seconds hard limit.
 
-Tool Boundaries
+**Tool Boundaries**
 
 corpus.retrieve →
 {chunks:[{text, source, pillar, score}], summary, confidence}
@@ -83,7 +83,7 @@ Juno recommends overriding an existing PM decision
 
 Tool failures result in incomplete evidence
 
-Checkpoint · PM Approval Before Action
+**Checkpoint · PM Approval Before Action**
 
 When: After Juno produces the draft top-3 risk list and before creating Jira stubs or posting to #pm-daily.
 
@@ -122,7 +122,7 @@ What RocketShip strategic priority supports this?
 What business impact supports this?
 
 **Permissions**
-Juno can:
+**Juno can:**
 
 READ Slack #escalations
 
@@ -138,7 +138,7 @@ DRAFT Jira stubs
 
 WRITE/POST only after explicit PM approval
 
-Juno cannot:
+**Juno cannot:**
 
 Edit Salesforce records
 
