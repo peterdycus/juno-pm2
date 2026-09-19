@@ -12,10 +12,6 @@ The PM remains accountable for the final decision. Juno drafts and recommends; t
 
 **The Harness**
 
-Surface
-
-Specification
-
 **01 Context**
 
 Required: RocketShip Strategy One-Pager (M2 deliverable and primary strategic authority) + Zendesk P0/P1 tickets from the last 90 days + Slack #voice-of-customer from the last 90 days.
