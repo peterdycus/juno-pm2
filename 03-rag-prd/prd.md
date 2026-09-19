@@ -135,27 +135,11 @@ Juno may still provide new evidence that could justify reconsidering the decisio
 
 **05 Permissions · AI Risks & Mitigations**
 
-Autonomy Dial
-
-Side-effect class
-
-Tier
-
-Read
-
-Auto
-
-Draft
-
-Auto
-
-Write
-
-Confirm
-
-Send
-
-Blocked
+**Side-effect class.**         **Permission.**
+Read                            Auto
+Draft                           Auto
+Write                           Confirm
+Send                            Block 
 
 **Justification**
 
