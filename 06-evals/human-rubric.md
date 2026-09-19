@@ -24,6 +24,7 @@ Dimension	1 — Fail	3 — Meets expectations	5 — Excellent
 - Score 3: Identifies the critical risks but has meaningful prioritization or relevance issues.
 - Score 4: Identifies and sensibly prioritizes the critical risks, with only minor omissions or noise.
 - Score 5: Identifies and correctly prioritizes the critical risks against the PM-curated reference, with no material unsupported claims.
+  
 **2. Evidence & citation grounding**
 - Score 1: Citations are missing, fabricated, or cannot be traced to source messages.
 - Score 2: Citations are present, but at least one material claim points to incorrect or insufficient evidence.
