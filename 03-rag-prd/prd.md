@@ -117,8 +117,6 @@ The turn ceiling therefore primarily protects user experience and latency rather
 
 **04 Memory · Data Requirements**
 
-Scope
-
 Memory is limited to one PM and one sprint.
 
 Juno remembers the rationale behind rankings generated during the sprint so it can explain changes instead of silently producing a different recommendation.
