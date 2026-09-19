@@ -2,7 +2,7 @@
 
 > _(one-line pitch: what Juno does, for whom, in one sentence)_
 
-_Your name · cohort · date_
+Peter Dycus · AI Product Managment  · September 9, 2026
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artefact lives in its own folder; this README is the dashboard and the pitch.
 
