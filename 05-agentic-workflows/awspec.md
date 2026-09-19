@@ -8,13 +8,13 @@ Identify and triage P0 customer escalations into a daily prioritized top-3 risk 
 
 For each recommendation, Juno provides the customer evidence, strategic rationale, priority recommendation, confidence level, and a defensible alternative when appropriate.
 
-The goal is to help the PM make faster, evidence-based prioritization decisions that can be confidently defended, while keeping the PM accountable for the final decision.
+The goal is to help me make faster, evidence-based prioritization decisions that can be confidently defended, while keeping me accountable for the final decision.
 
-Primary actor: Agent + Human-in-the-loop
+**Primary actor:** Agent + Human-in-the-loop
 Autonomy level: Copilot
 AI capability: Hybrid (RAG + Agentic)
 
-Juno retrieves, analyzes, compares, scores, and drafts. The PM reviews and approves before Juno changes shared product state or communicates a recommendation.
+Juno retrieves, analyzes, compares, scores, and drafts. I review and approve before Juno changes shared product state or communicates a recommendation.
 
 **Trigger**
 
@@ -28,13 +28,6 @@ The trigger initiates analysis only. It does not authorize Juno to publish a rec
 
 Pattern: ReAct — single-agent reason → act → observe loop.
 
-Step
-
-Action
-
-Tool / Model
-
-Guardrail
 
 1
 
@@ -62,7 +55,7 @@ Read only. Juno cannot modify Salesforce records. Customer-specific data remains
 
 4
 
-Compare customer evidence, ARR impact, and strategic alignment. Recommend P0–P3 or notRecommended and calculate confidence.
+Compare customer evidence, ARR impact, and strategic alignment. Recommend P0–P3 or not Recommended and calculate confidence.
 
 Juno reasoning model
 
