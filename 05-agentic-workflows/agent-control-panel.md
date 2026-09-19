@@ -154,11 +154,11 @@ Invent missing customer or strategic evidence
 
 Publish a prioritization decision without PM approval
 
-Escalate-on-Stuck
+**Escalate-on-Stuck**
 
 After 3 failed retrieval attempts, stop prioritization and enter Cautious Mode.
 
-In Cautious Mode, Juno:
+**In Cautious Mode, Juno:**
 
 Does not assign a priority
 
