@@ -2,7 +2,7 @@
 
 > Module 2 · Strategy. The build / buy / fine-tune / partner call, made with the **M2 · AI Solution Decision Matrix**. Paste the tool's markdown over this file.
 
-Problem: Roadmap prioritization is often driven by the loudest voice in Slack rather than customer evidence. When leadership challenges a priority, the PM struggles to clearly defend the reasoning behind the decision.
+Problem: I want to make faster, evidence-based prioritization decisions that I can confidently defend with customer insights and strategic evidence, while maintaining ownership of the final decision.
 
 Why it matters: Prioritization decisions should be based on credible evidence and traceable sources—not who advocates most strongly for a request or issue.
 Approach: Use RAG across the RocketShip corpus so every recommended priority is grounded in and cites supporting evidence. Juno operates as a Copilot: it drafts the recommendation and rationale, while the PM reviews, adjusts, and approves the final decision. We are explicitly not building an Agent that makes prioritization decisions autonomously.
