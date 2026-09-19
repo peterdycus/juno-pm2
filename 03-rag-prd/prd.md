@@ -135,10 +135,10 @@ Juno may still provide new evidence that could justify reconsidering the decisio
 
 **05 Permissions · AI Risks & Mitigations**
 
-Permission to auto Read
-Permission to auto Draft
-Permission to write and confirm 
-Doesn't not have permission to send 
+Permission to auto Read. 
+Permission to auto Draft. 
+Permission to write and confirm. 
+Doesn't not have permission to send.  
 
 **Justification**
 
